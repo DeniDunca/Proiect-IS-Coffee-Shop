@@ -1,0 +1,30 @@
+Orders
+31,"Product: Abstract Class Cappuccino, Amount:1, Price:16.5------
+Total price 16.50","Username: daniela, Street:M.Eminescu, City: Cluj, Postal code: 12345"
+
+Users
+1,ok,email,admin,121,admin
+21,str.Principala,ionel02@gmail.com,ionelPop,1234566,ionelpop
+22,str.Mihai Eminescu,daniela@gmail.com,daniela,1234567,daniela
+
+Products
+2,Abstract Class Cappuccino,Cappuccino with Caramel,16.5
+3,Variable Milkshake,"Milkshake with berries, caramel or chocolate",12.99
+4,Vector Coffee,Americano,9.99
+5,Spring Coffee,Coffee with floral scent,12.5
+6,Hot Database Coffee,"Coffee with vanilla, caramel and salt",17
+7,Moccachino C++,Coffee with extra chocolate,14.99
+8,Hello World Coffee,Strong espresso,10
+11,Overflow Coffee,Big Latte,15.99
+
+Summary
+1,"Delicious Coffees For Programmers, Delivered To You!  
+We all know how much programmers love coffee and how welcomed 
+is one while coding. If you are a code-enjoyer choose your
+ favourite coffee from our broad selection of available 
+coffees and have a taste from it while completing your job! 
+All our coffees are made of freshly fried coffee beans that 
+are ground with care so you can feel the most intense aroma 
+of coffee! You can order without having an account, but if 
+you create one you'll receive a 20 % discount of your total 
+price per order!"
